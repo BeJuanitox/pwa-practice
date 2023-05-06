@@ -5,5 +5,17 @@
   "orientation": "landscape",
   "theme_color": "#FFC252",
   "scope": "./",
-  "display": "fullscreen"
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
 }
